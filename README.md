@@ -1,6 +1,7 @@
 # SA-Attack
 2024 IEEE Intelligent Vehicles Symposium(IV) SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory prediction
-
+## Overview of methodology
+![SA-Attack](img/Method Overview.jpeg)
 ## Requirements
 
 * Python 3.8+
