@@ -1,5 +1,5 @@
 # SA-Attack
-2025 IEEE Intelligent Vehicles Symposium(IV) SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory prediction
+2024 IEEE Intelligent Vehicles Symposium(IV) SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory prediction
 
 ## Requirements
 
